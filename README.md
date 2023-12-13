@@ -2,8 +2,7 @@
 Hi 👋 I'm Andrii Dutka
 ----
 ### About me:
-  Highly motivated Python Developer with a set of skills in Web Development. Passionate about coding and professional development.
-Quick learner, having analytical thinking and problem-solving skills. Responsible, proactive, reliable, goal-oriented and adaptive team player.
+  Highly motivated Developer with a set of skills. Passionate about coding and professional development. Quick learner, having analytical thinking and problem-solving skills. Responsible, proactive, reliable, goal-oriented and adaptive team player
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
