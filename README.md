@@ -13,7 +13,7 @@ Hi 👋 I'm Andrii Dutka
 <table>
   <tr>
     <td>
-      <h3>💻 Technologies</h3>
+      <h3 align="center">💻 Technologies</h3>
       <p align="left">
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -24,7 +24,7 @@ Hi 👋 I'm Andrii Dutka
       </p>
     </td>
     <td>
-      <h3>🛠 Інструменти:</h3>
+      <h3 align="center">🛠 Інструменти:</h3>
       <p align="left">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
