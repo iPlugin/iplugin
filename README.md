@@ -48,7 +48,6 @@ Hi 👋 I'm Andrii Dutka
 ---
 
 ### 📋 GitHub statistics:
-
 <table>
   <tr>
     <td>
