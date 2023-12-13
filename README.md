@@ -16,7 +16,7 @@ Hi 👋 I'm Andrii Dutka
 
 <table>
   <tr>
-    <td align="left">
+    <td align="left" margin-right = "15px">
       <h3>💻 Technologies</h3>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
       <p></p>
