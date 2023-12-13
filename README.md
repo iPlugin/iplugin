@@ -24,7 +24,7 @@ Hi 👋 I'm Andrii Dutka
       </p>
     </td>
     <td>
-      <h3 align="center">🛠 Інструменти:</h3>
+      <h3 align="center">🛠 Інструменти</h3>
       <p align="right">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
@@ -35,7 +35,7 @@ Hi 👋 I'm Andrii Dutka
     </p>
     </td>
     <td>
-      <h3 align="center"><a href="https://www.flaticon.com/free-icons/duplicate" title="duplicate icons">Duplicate icons created by IYAHICON - Flaticon</a> Database:</h3>
+      <h3 align="center">⚙️ Databases</h3>
       <p align="right">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
