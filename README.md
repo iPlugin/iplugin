@@ -8,7 +8,7 @@ Hi 👋 I'm Andrii Dutka
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
---
+------------------------------------------
 
 ### Skills
 
