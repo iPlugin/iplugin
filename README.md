@@ -5,7 +5,7 @@ Hi 👋 I'm Andrii Dutka
   Highly motivated Developer with a set of skills. Passionate about coding and professional development. Quick learner, having analytical thinking and problem-solving skills. Responsible, proactive, reliable, goal-oriented and adaptive team player
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="snake/github-snake.svg" alt="snake"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@ Hi 👋 I'm Andrii Dutka
 
 ---
 
-### 📋 GitHub статистика:
+### 📋 GitHub статистика: ![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
 
 <table>
   <tr>
