@@ -5,7 +5,7 @@ C++/Python
 ----------
 
 * 🌍  I'm based in Ukraine/Lviv
-* ✉️  You can contact me at [ipluginua@gmail.com](mailto:ipluginua@gmail.com)
+* ✉️  You can contact me at [ipluginua@gmail.com]
 * 🧠  I'm learning Lviv Polytechnic National University
 
 ### Skills
