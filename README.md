@@ -20,12 +20,12 @@ Hi 👋 I'm Andrii Dutka
   <tr>
     <td>
       <h3>💻 Technologies</h3>
-      <p>
+      <div style="width: 33.33%; float: left; box-sizing: border-box; padding: 10px; background-color: #f0f0f0;">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-      </>
+      </div>
     </td>
     <td>
       <h3>🛠 Інструменти</h3>
