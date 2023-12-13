@@ -28,7 +28,7 @@ Hi 👋 I'm Andrii Dutka
 <table>
   <tr>
     <td>
-      ###💻 Technologies
+      <h3>💻 Technologies</h3>
       <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -36,7 +36,7 @@ Hi 👋 I'm Andrii Dutka
       </div>
     </td>
     <td>
-      ###🛠 Інструменти
+      <h3>🛠 Інструменти</h3>
       <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -44,7 +44,7 @@ Hi 👋 I'm Andrii Dutka
       </div>
     </td>
     <td>
-      ###⚙️ Databases
+      <h3>⚙️ Databases</h3>
       <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
