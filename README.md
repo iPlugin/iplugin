@@ -1,9 +1,9 @@
 ---
 Hi 👋 My name is Andrii Dutka
 ----
-
-C++/Python
-----------
+About me:
+  Highly motivated Python Developer with a set of skills in Web Development. Passionate about coding and professional development.
+Quick learner, having analytical thinking and problem-solving skills. Responsible, proactive, reliable, goal-oriented and adaptive team player.
 
 * 🌍  I'm based in Ukraine/Lviv
 * ✉️  You can contact me at ipluginua@gmail.com
