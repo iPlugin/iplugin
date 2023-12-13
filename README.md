@@ -20,7 +20,7 @@ Hi 👋 I'm Andrii Dutka
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
     </td>
     <td align="center">
-      <h3>🛠 Інструменти</h3>
+      <h3>🛠 Tools</h3>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" />
@@ -47,7 +47,7 @@ Hi 👋 I'm Andrii Dutka
 
 ---
 
-### 📋 GitHub статистика: ![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+### 📋 GitHub statistics:
 
 <table>
   <tr>
