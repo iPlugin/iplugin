@@ -47,7 +47,7 @@ Hi 👋 I'm Andrii Dutka
 
 ---
 
-### 📋 GitHub статистика: ![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+### 📋 GitHub статистика:
 
 <table>
   <tr>
