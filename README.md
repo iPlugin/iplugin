@@ -2,7 +2,17 @@
 Hi 👋 I'm Andrii Dutka
 ----
 ### About me:
-  Highly motivated Developer with a set of skills. Passionate about coding and professional development. Quick learner, having analytical thinking and problem-solving skills. Responsible, proactive, reliable, goal-oriented and adaptive team player
+<table>
+  <tr>
+    <td align="center">
+      Highly motivated Developer with a set of skills. Passionate about coding and professional development. Quick learner, having analytical thinking and problem-solving skills. Responsible, proactive, reliable, goal-oriented and adaptive team player
+    </td>
+    <td align="center">
+    <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="100" height="100" alt="Gitmeme" />
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
  <img width="600" src="snake/github-snake.svg" alt="snake"/>
