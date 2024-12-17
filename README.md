@@ -1,13 +1,12 @@
----
-Hi 👋 I'm Andrii Dutka
-----
-### About me:
+
+# Hi 👋 I'm **Andrii Dutka**
+## About me:
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="70%">
       Highly motivated Developer with a set of skills. Passionate about coding and professional development. Quick learner, having analytical thinking and problem-solving skills. Responsible, proactive, reliable, goal-oriented and adaptive team player
     </td>
-    <td align="center">
+    <td align="center" width="30%">
     <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="100" height="100" alt="Gitmeme" />
     </td>
   </tr>
@@ -18,9 +17,7 @@ Hi 👋 I'm Andrii Dutka
  <img width="600" src="snake/github-snake.svg" alt="snake"/>
 </p>
 
----
-
-<table>
+<!-- <table>
   <tr>
     <td align="center">
       <h3>💻 Technologies</h3>
@@ -53,9 +50,9 @@ Hi 👋 I'm Andrii Dutka
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
----
+<!-- ---
 
 ### 📋 GitHub statistics:
 <table>
@@ -67,6 +64,6 @@ Hi 👋 I'm Andrii Dutka
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iplugin&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
