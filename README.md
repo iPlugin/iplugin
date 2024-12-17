@@ -1,10 +1,11 @@
 
 # Hi 👋 I'm **Andrii Dutka**
-## About me:
+
 <table>
   <tr>
     <td align="center" width="70%">
-      Highly motivated Developer with a set of skills. Passionate about coding and professional development. Quick learner, having analytical thinking and problem-solving skills. Responsible, proactive, reliable, goal-oriented and adaptive team player
+      Highly motivated Developer with a set of skills. Passionate about coding and professional development. Quick learner, having analytical thinking and problem-solving skills. Responsible, proactive, reliable, goal-oriented and adaptive team player.
+      <a href="https://drive.google.com/file/d/1nSWa3hovaYiDh4VrSiEdJS30g1uQ4zvU/view?usp=sharing" target="_blank">Link on my CV</a>
     </td>
     <td align="center" width="30%">
     <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="100" height="100" alt="Gitmeme" />
