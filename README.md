@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="left" width="70%">
-      <h4>Highly motivated C++ Developer with expertise in networking. Passionate about coding and professional growth, with strong analytical thinking and problem-solving skills. A quick learner who is responsible, proactive, reliable, and goal-oriented. An adaptive team player dedicated to delivering high-quality solutions.</h4>
+      <h5>Highly motivated C++ Developer with expertise in networking. Passionate about coding and professional growth, with strong analytical thinking and problem-solving skills. A quick learner who is responsible, proactive, reliable, and goal-oriented. An adaptive team player dedicated to delivering high-quality solutions.</h5>
     </td>
     <td align="center" width="30%">
       <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="100" height="100" alt="Gitmeme" />
