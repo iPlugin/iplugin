@@ -3,19 +3,50 @@
 
 <table>
   <tr>
-    <td align="center" width="70%">
-      Highly motivated Developer with a set of skills. Passionate about coding and professional development. Quick learner, having analytical thinking and problem-solving skills. Responsible, proactive, reliable, goal-oriented and adaptive team player
+    <td align="left" width="70%">
+      <h4>Highly motivated C++ Developer with expertise in networking. Passionate about coding and professional growth, with strong analytical thinking and problem-solving skills. A quick learner who is responsible, proactive, reliable, and goal-oriented. An adaptive team player dedicated to delivering high-quality solutions.</h4>
     </td>
     <td align="center" width="30%">
-    <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="100" height="100" alt="Gitmeme" />
+      <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="100" height="100" alt="Gitmeme" />
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td align="center" width="30%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Chromium_T-Rex-error-offline.svg" width="100" height="100" alt="Gitmeme"/>
+    </td>
+    <td align="right" width="70%">
+      <!-- Highly motivated Developer with a set of skills. Passionate about coding and professional development. Quick learner, having analytical thinking and problem-solving skills. Responsible, proactive, reliable, goal-oriented and adaptive team player. Highly motivated Developer with a set of skills. -->
+      Lorem ipsum odor amet, consectetuer adipiscing elit. Nec in odio sollicitudin aenean justo placerat consectetur. Nec vel interdum malesuada mattis felis augue est blandit. Nullam tortor in maecenas risus purus cursus vehicula. Vitae sollicitudin elementum sociosqu class litora penatibus urna. Convallis auctor risus eu conubia leo fringilla turpis primis natoque.
     </td>
   </tr>
 </table>
 
 
 <p align="center">
- <img width="600" src="snake/github-snake.svg" alt="snake"/>
+  <img width="600" src="snake/github-snake.svg" alt="snake"/>
 </p>
+
+
+
+<!-- <p align="center">
+  <img width="600" src="https://media1.tenor.com/m/CFyGnTjUqw4AAAAC/dinosaur.gif" alt="snake"/>
+</p> -->
+
+<!-- <table>
+  <tr>
+    <td align="center" width="30%">
+      <img src="https://media.tenor.com/NnJae5EoiXwAAAAi/cute-happy.gif" width="300" height="110" alt="Gitmeme"/>
+    </td>
+    <td align="center" width="70%">
+      Highly motivated Developer with a set of skills. Passionate about coding and professional development. Quick learner, having analytical thinking and problem-solving skills. Responsible, proactive, reliable, goal-oriented and adaptive team player
+    </td>
+  </tr>
+</table> -->
+
 
 <!-- <table>
   <tr>
