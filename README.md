@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="left" width="70%">
-      <h5>Highly motivated C++ Developer with expertise in networking. Passionate about coding and professional growth, with strong analytical thinking and problem-solving skills. A quick learner who is responsible, proactive, reliable, and goal-oriented. An adaptive team player dedicated to delivering high-quality solutions.</h5>
+      <h4>Highly motivated C++ Developer with expertise in networking. Passionate about coding and professional growth, with strong analytical thinking and problem-solving skills. A quick learner who is responsible, proactive, reliable, and goal-oriented. An adaptive team player dedicated to delivering high-quality solutions.</h4>
     </td>
     <td align="center" width="30%">
       <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="100" height="100" alt="Gitmeme" />
@@ -19,7 +19,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Chromium_T-Rex-error-offline.svg" width="100" height="100" alt="Gitmeme"/>
     </td>
     <td align="right" width="70%">
-      <h5>Lorem ipsum odor amet, consectetuer adipiscing elit. Nec in odio sollicitudin aenean justo placerat consectetur. Nec vel interdum malesuada mattis felis augue est blandit. Nullam tortor in maecenas risus purus cursus vehicula. Vitae sollicitudin elementum sociosqu class litora penatibus urna. Convallis auctor risus eu conubia leo fringilla turpis primis natoque.</h5>
+      <h4>Lorem ipsum odor amet, consectetuer adipiscing elit. Nec in odio sollicitudin aenean justo placerat consectetur. Nec vel interdum malesuada mattis felis augue est blandit. Nullam tortor in maecenas risus purus cursus vehicula. Vitae sollicitudin elementum sociosqu class litora penatibus urna. Convallis auctor risus eu conubia leo fringilla turpis primis natoque.</h4>
     </td>
   </tr>
 </table>
