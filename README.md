@@ -19,8 +19,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Chromium_T-Rex-error-offline.svg" width="100" height="100" alt="Gitmeme"/>
     </td>
     <td align="right" width="70%">
-      <!-- Highly motivated Developer with a set of skills. Passionate about coding and professional development. Quick learner, having analytical thinking and problem-solving skills. Responsible, proactive, reliable, goal-oriented and adaptive team player. Highly motivated Developer with a set of skills. -->
-      Lorem ipsum odor amet, consectetuer adipiscing elit. Nec in odio sollicitudin aenean justo placerat consectetur. Nec vel interdum malesuada mattis felis augue est blandit. Nullam tortor in maecenas risus purus cursus vehicula. Vitae sollicitudin elementum sociosqu class litora penatibus urna. Convallis auctor risus eu conubia leo fringilla turpis primis natoque.
+      <h5>Lorem ipsum odor amet, consectetuer adipiscing elit. Nec in odio sollicitudin aenean justo placerat consectetur. Nec vel interdum malesuada mattis felis augue est blandit. Nullam tortor in maecenas risus purus cursus vehicula. Vitae sollicitudin elementum sociosqu class litora penatibus urna. Convallis auctor risus eu conubia leo fringilla turpis primis natoque.</h5>
     </td>
   </tr>
 </table>
