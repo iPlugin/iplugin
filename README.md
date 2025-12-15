@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td align="center" width="30%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Chromium_T-Rex-error-offline.svg" width="100" height="100" alt="Gitmeme"/>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXh5dzZzMWw4MGxxNDg0ZmppaXkxdW1wN3c5azZnc2hudWl3M2o4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NAq0PgHZIICdpmZsmw/giphy.gif" width="100" height="100" alt="Gitmeme"/>
     </td>
     <td align="right" width="70%">
       <h4>Lorem ipsum odor amet, consectetuer adipiscing elit. Nec in odio sollicitudin aenean justo placerat consectetur. Nec vel interdum malesuada mattis felis augue est blandit. Nullam tortor in maecenas risus purus cursus vehicula. Vitae sollicitudin elementum sociosqu class litora penatibus urna. Convallis auctor risus eu conubia leo fringilla turpis primis natoque.</h4>
