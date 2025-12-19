@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td align="center" width="30%">
-      <img src="animation/linux.mp4" width="100" height="100" alt="Linux"/>
+      <img src="animation/linux.gif" width="100" height="100" alt="Linux"/>
     </td>
     <td align="right" width="70%">
       <h4>Experienced in Network: IP addressing, routing, NAT, and firewall rules. Skilled in TCP, UDP, ICMP, DHCP, and DNS, traffic monitoring, troubleshooting, and automating network tasks for secure and efficient connectivity. Proficient in configuring Linux routers and optimizing network performance across all layers</h4>
